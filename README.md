@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Analyze data and generate a sales report. You will package the code so that pieces of it can be reused future sales reports. Output your reports to a file, instead of command line.
+Analyze data and generate a sales report. You will package the code so that pieces of it can be reused in future sales reports. Output your reports to a file, instead of command line.
 
 
 ## Completing this Project
