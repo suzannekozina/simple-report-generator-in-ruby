@@ -7,8 +7,8 @@ Analyze data and generate a sales report. You will package the code so that piec
 
 ## Completing this Project
 
-Unsure your program does the following:
-
-* Outputs all the same data as required in ToyCity Part 1.
+This program does the following:
+* Loops over data in a JSON file
+* Analyes "Number of Products in Stock", "Average Product Price", and "Total Sales"
 * Outputs the properly formatted report to a `report.txt` file.
 * Uses methods to reduce code duplication and increase readability.
